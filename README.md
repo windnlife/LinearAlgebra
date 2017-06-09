@@ -1,5 +1,5 @@
 $y = x^2 \hbox{ when $x > 2$}$
-
+{\displaystyle a}
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
